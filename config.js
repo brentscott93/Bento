@@ -43,7 +43,7 @@ const CONFIG = {
 
 	// Autochange by hour options (24hrs format, string must be in: hh:mm)
 	changeThemeByHour: false,
-	hourDarkThemeActive: '18:30',
+	hourDarkThemeActive: '0:00',
 	hourDarkThemeInactive: '07:00',
 
 	// ┌┐ ┬ ┬┌┬┐┌┬┐┌─┐┌┐┌┌─┐
@@ -149,6 +149,10 @@ const CONFIG = {
 				{
 					name: 'UMass Library',
 					link: 'https://www.library.umass.edu/',
+				},
+				{
+					name: 'DuckDuckGo',
+					link: 'https://www.duckduckgo.com',
 				},
 			],
 		},
