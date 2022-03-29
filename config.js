@@ -139,7 +139,7 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Google Scholar',
+					name: 'GoogleScholar',
 					link: 'https://scholar.google.com',
 				},
 				{
@@ -147,7 +147,7 @@ const CONFIG = {
 					link: 'https://pubmed.ncbi.nlm.nih.gov/',
 				},
 				{
-					name: 'UMass Library',
+					name: 'UMassLibrary',
 					link: 'https://www.library.umass.edu/',
 				},
 				{
@@ -165,7 +165,7 @@ const CONFIG = {
 					link: 'https://open.spotify.com',
 				},
 				{
-					name: 'Amazon Music',
+					name: 'AmazonMusic',
 					link: 'https://music.amazon.com',
 				},
 				{
