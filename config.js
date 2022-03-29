@@ -26,14 +26,14 @@ const CONFIG = {
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
+	weatherKey: '7b47f0537360ea0fbec62a4456abde04', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '37.775',
-	defaultLongitude: '-122.419',
+	defaultLatitude: '42.261070',
+	defaultLongitude: '-72.245552',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -55,19 +55,19 @@ const CONFIG = {
 			id: '1',
 			name: 'Github',
 			icon: 'github',
-			link: 'https://github.com/',
+			link: 'https://github.com/brentscott93',
 		},
 		{
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.google.com',
 		},
 		{
 			id: '3',
 			name: 'Todoist',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://umass.moonami.com',
 		},
 		{
 			id: '4',
@@ -84,17 +84,17 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			icon: 'user',
+			link: 'https://brentscott.us',
 		},
 	],
 
 	secondButtonsContainer: [
 		{
 			id: '1',
-			name: 'Music',
-			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			name: 'Research',
+			icon: 'book-open',
+			link: 'https://scholar.google.com',
 		},
 		{
 			id: '2',
@@ -135,42 +135,38 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'book-open',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Google Scholar',
+					link: 'https://scholar.google.com',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'PubMed',
+					link: 'https://pubmed.ncbi.nlm.nih.gov/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'UMass Library',
+					link: 'https://www.library.umass.edu/',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'music',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Spotify',
+					link: 'https://open.spotify.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Amazon Music',
+					link: 'https://music.amazon.com',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'YouTube',
+					link: 'https://www.youtube.com',
 				},
 				{
 					name: 'Slack',
