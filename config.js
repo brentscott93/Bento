@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Brent',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -28,7 +28,7 @@ const CONFIG = {
 	// Weather
 	weatherKey: '7b47f0537360ea0fbec62a4456abde04', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
-	weatherUnit: 'C', // 'F', 'C'
+	weatherUnit: 'F', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
@@ -65,7 +65,7 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Moodle',
 			icon: 'trello',
 			link: 'https://umass.moonami.com',
 		},
@@ -83,7 +83,7 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Website',
 			icon: 'user',
 			link: 'https://brentscott.us',
 		},
