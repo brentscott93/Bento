@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Drive',
+			icon: 'hard-drive',
+			link: 'https://drive.google.com',
 		},
 		{
 			id: '6',
