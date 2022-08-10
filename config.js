@@ -61,13 +61,13 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.google.com',
+			link: 'https://outlook.office.com/mail/',
 		},
 		{
 			id: '3',
 			name: 'Moodle',
 			icon: 'trello',
-			link: 'https://umass.moonami.com',
+			link: 'https://teams.microsoft.com/',
 		},
 		{
 			id: '4',
@@ -79,7 +79,7 @@ const CONFIG = {
 			id: '5',
 			name: 'Drive',
 			icon: 'hard-drive',
-			link: 'https://drive.google.com',
+			link: 'https://wustl.app.box.com/folder/0',
 		},
 		{
 			id: '6',
